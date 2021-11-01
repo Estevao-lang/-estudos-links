@@ -9,3 +9,6 @@ https://docplayer.com.br/1093964-Sistema-gerenciamento-de-produtos-php-e-mysql-1
 
 
 https://docplayer.com.br/3356877-Construindo-um-sistema-simples-de-cadastro-de-fornecedores-em-php-e-mysql.html
+
+
+https://blog.dankicode.com/como-criar-um-sistema-de-cadastro-com-php-e-mysql/
