@@ -12,3 +12,6 @@ https://docplayer.com.br/3356877-Construindo-um-sistema-simples-de-cadastro-de-f
 
 
 https://blog.dankicode.com/como-criar-um-sistema-de-cadastro-com-php-e-mysql/
+
+
+https://www.youtube.com/watch?v=kvvIHVRPlj0
