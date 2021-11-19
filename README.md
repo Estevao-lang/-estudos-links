@@ -15,3 +15,14 @@ https://blog.dankicode.com/como-criar-um-sistema-de-cadastro-com-php-e-mysql/
 
 
 https://www.youtube.com/watch?v=kvvIHVRPlj0
+
+
+https://mdbootstrap.com/docs/b4/jquery/ecommerce/design-blocks/product-details/
+
+
+https://freefrontend.com/bootstrap-product-cards/
+
+
+https://bootstrapious.com/p/bootstrap-search-bar
+
+https://freefrontend.com/bootstrap-search-boxes/
